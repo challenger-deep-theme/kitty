@@ -1,0 +1,2 @@
+# kitty
+Kitty terminal theme
